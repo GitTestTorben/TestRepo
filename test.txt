@@ -1,4 +1,4 @@
-Dieses dokument bringt nichts
+﻿Dieses dokument bringt nichts
 ich eänder noch mehr zeug
 
 lass uns einen konflikt erzeugen
@@ -9,3 +9,4 @@ muss mehr master commits erzeugen
 zweiter super commit nur zum vollhauen
 
 das ist jetzt aber echt der letzte
+nur zum testen mit dem add
